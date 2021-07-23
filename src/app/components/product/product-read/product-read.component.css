@@ -1,0 +1,14 @@
+ table{
+     width: 100%;
+}
+
+.icon-edit{
+  color: #575757;
+    /* color: #d9cd26; */
+}
+
+
+ .icon-delete{
+    color: #e35e6b;
+     margin-left: 20px;
+ }
